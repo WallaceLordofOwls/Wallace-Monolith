@@ -25,6 +25,7 @@
     - MonolithRuleRoleplaySixMetagame
     - MonolithRuleRoleplaySevenSafeZones
     - MonolithRuleRoleplayEightFactionRoles
+    - MonolithRuleRoleplayNineADS
     - MonolithRuleConflictOneRandomDeathmatch
     - MonolithRuleConflictTwoNewLife
     - MonolithRuleConflictThreeFairPlay
@@ -114,7 +115,12 @@
   text: "/ServerInfo/_Mono/Guidebook/Rules/Roleplay/Eight_FactionRoles.xml"
   ruleEntry: true
 
-
+- type: guideEntry
+  id: MonolithRuleRoleplayNineADS
+  name: guide-entry-monolith-rule-roleplay-nine-ads
+  text: "/ServerInfo/_Mono/Guidebook/Rules/Roleplay/Nine_ADS.xml"
+  ruleEntry: true
+ 
 # /Roleplay Rules
 
 #MARK: Conflict Rules
